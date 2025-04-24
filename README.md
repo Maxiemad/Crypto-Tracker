@@ -40,11 +40,6 @@ https://github.com/user-attachments/assets/e2b506e0-c838-4b45-be24-ff4d3d39b6f1
 
 ---
 
-## 🧱 Project Structure
-
-
-https://github.com/user-attachments/assets/6abdf7cb-92bc-4434-9653-e05e2c5db4de
-
 
 bash
 src/
